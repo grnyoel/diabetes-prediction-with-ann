@@ -139,7 +139,7 @@
   print(f"X_test shape: {X_test.shape}, y_test shape: {y_test.shape}")
 ```
 
-### Prepare Network
+## Prepare Network
 Use XGBoost
 ```bash
   xgboost = XGBClassifier()
